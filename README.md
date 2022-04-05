@@ -2,9 +2,9 @@
 <hr>
 My name is Bas Bakens and I am 17 years old. 
 <br>
-I've started programming in Juli 2021. 
+I live in the south of the Netherlands and in Juli 2021 I started coding my first project.
 <br>
-Check out my portfolio site to see what I'm working at!
+Check out my portfolio site to see what I'm working on at the moment!
 <br>
 https://basbakens.ga
 <!--
