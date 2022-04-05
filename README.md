@@ -1,6 +1,10 @@
 ### Hi there 👋
 <hr>
-
+My name is Bas Bakens and I am 17 years old. 
+I've started programming in Juli 2021. 
+Check out my portfolio site to see what I'm working at!
+<hr>
+https://basbakens.ga
 <!--
 **Bash-04/Bash-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
