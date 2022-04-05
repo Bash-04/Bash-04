@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello and welcome to my GitHub page! 👋
 <hr>
 My name is Bas Bakens and I am 17 years old. 
 <br>
