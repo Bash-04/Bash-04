@@ -8,7 +8,7 @@ Check out my portfolio site. I'm still working on at the moment, so it isn't ful
 <br>
 https://basbakens.ga
 <hr>
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c&style=plastic)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=910007)
 <!--
 **Bash-04/Bash-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
