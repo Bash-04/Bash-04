@@ -7,6 +7,8 @@ I live in the south of the Netherlands and in Juli 2021 I started coding my firs
 Check out my portfolio site. I'm still working on at the moment, so it isn't fully done yet!
 <br>
 https://basbakens.ga
+<hr>
+![image title](https://rushter.com/counter.svg)
 <!--
 **Bash-04/Bash-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
