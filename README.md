@@ -1,5 +1,7 @@
 ### Hello and welcome to my GitHub page! 👋
+
 <hr>
+
 My name is Bas Bakens and I am 17 years old. 
 <br>
 I live in the south of the Netherlands and in Juli 2021 I started coding my first project which became my own portfolio site.
@@ -7,17 +9,11 @@ I live in the south of the Netherlands and in Juli 2021 I started coding my firs
 Check out my portfolio site. I'm still working on it at the moment, so it isn't fully done yet!
 <br>
 https://basbakens.ga
-<!--
-**Bash-04/Bash-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Bash's github stats](https://github-readme-stats.vercel.app/api?username=Bash-04&show_icons=true&theme=highcontrast&title_color=2aa889&text_color=99d1ce)](https://github.com/Bash-04)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bash-04&theme=gotham&layout=compact)](https://github.com/Bash-04)
