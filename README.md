@@ -13,3 +13,7 @@ https://basbakens.ga
 [![Bash's github stats](https://github-readme-stats.vercel.app/api?username=Bash-04&show_icons=true&theme=highcontrast&title_color=2aa889&text_color=99d1ce)](https://github.com/Bash-04)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bash-04&theme=gotham&layout=compact)](https://github.com/Bash-04)
+
+<h6>Statistics made by <a href="https://github.com/anuraghazra">Anurag Hazra</a></h6>
+<br>
+<h6><a href="https://github.com/anuraghazra/github-readme-stats">Try it yourself</a></h6>
