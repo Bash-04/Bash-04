@@ -15,5 +15,4 @@ https://basbakens.ga
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bash-04&theme=gotham&layout=compact)](https://github.com/Bash-04)
 
 <h6>Statistics made by <a href="https://github.com/anuraghazra">Anurag Hazra</a></h6>
-<br>
 <h6><a href="https://github.com/anuraghazra/github-readme-stats">Try it yourself</a></h6>
