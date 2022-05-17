@@ -11,11 +11,8 @@ https://basbakens.ga
 **Contact me**: bas.bakens04@gmail.com
 
 <hr>
-<!--
 [![Bash's github stats](https://github-readme-stats.vercel.app/api?username=Bash-04&show_icons=true&theme=highcontrast&title_color=2aa889&text_color=99d1ce)](https://github.com/Bash-04)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bash-04&theme=gotham&layout=compact)](https://github.com/Bash-04)
 <br>
--->
-
 [![Profile view counter](https://komarev.com/ghpvc/?username=Bash-04&color=2aa889)](https://github.com/Bash-04)
