@@ -13,14 +13,18 @@ https://basbakens.ga
 <hr>
 
 ### Current project:
-<a href="https://github.com/Bash-04/TheDashboard">TheDashboard</a> [status: In Progress]
+- <a href="https://github.com/Bash-04/TheDashboard">TheDashboard</a> [status: In Progress]
 
 ### Earlier projects:
-<a href="https://github.com/Bash-04/basbakens.-">basbakens.-</a> (Portfolio site) [status: On Hold]
-<br>
-<a href="https://github.com/Bash-04/OROwebapp-v2">OROwebapp-V2</a> (Technasium meesterproef; ORO) [status: Done]
-<br>
-<a href="https://github.com/Bash-04/OROwebapp-v1">OROwebapp-V1</a> (Technasium meesterproef; ORO) [status: Done]
+- <a href="https://github.com/Bash-04/basbakens.-">basbakens.-</a> (Portfolio site) [status: On Hold]
+- <a href="https://github.com/Bash-04/OROwebapp-v2">OROwebapp-V2</a> (Technasium meesterproef; ORO) [status: Done]
+- <a href="https://github.com/Bash-04/OROwebapp-v1">OROwebapp-V1</a> (Technasium meesterproef; ORO) [status: Done]
+
+<hr>
+
+### My GitHub pages
+- <a href="https://Bash-04.GitHub.io">Bash-04.GitHub.io</a>
+
 <hr>
 
 [![Bash's github stats](https://github-readme-stats.vercel.app/api?username=Bash-04&show_icons=true&theme=highcontrast&title_color=2aa889&text_color=99d1ce)](https://github.com/Bash-04)
