@@ -17,8 +17,8 @@ https://basbakens.ga
 
 ### Earlier projects:
 - <a href="https://github.com/Bash-04/basbakens.-">basbakens.-</a> (Portfolio site) [status: On Hold]
-- <a href="https://github.com/Bash-04/OROwebapp-v2">OROwebapp-V2</a> (Technasium meesterproef; ORO) [status: Done]
-- <a href="https://github.com/Bash-04/OROwebapp-v1">OROwebapp-V1</a> (Technasium meesterproef; ORO) [status: Done]
+- <a href="https://github.com/Bash-04/OROwebapp-v2">OROwebapp-V2</a> (Technasium Mastertest; ORO) [status: Done]
+- <a href="https://github.com/Bash-04/OROwebapp-v1">OROwebapp-V1</a> (Technasium Mastertest; ORO) [status: Done]
 
 <hr>
 
