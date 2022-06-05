@@ -12,6 +12,13 @@ Check out my **portfolio** site. *I'm still working on it at the moment, so it i
 
 <hr>
 
+### Socials:
+- <a href="https://instagram.com/basbakensdev" target="blank">Instagram</a>
+- <a href="https://discord.com/users/428516097244004352">Discord</a>
+- <a href="https://www.linkedin.com/in/basbakens/" target=blank>Linkedin</a>
+
+<hr>
+
 ### Current project:
 - <a href="https://github.com/Bash-04/TheDashboard">TheDashboard</a> [status: In Progress]
 
