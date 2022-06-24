@@ -20,7 +20,7 @@ Check out my **portfolio** site. *I'm still working on it at the moment, so it i
 <hr>
 
 ### Current project:
-- <a href="https://github.com/Bash-04/basbakens.-">basbakens.-</a> (Portfolio site) [status: In Progress]
+- <a href="https://github.com/Bash-04/basbakens">basbakens</a> (Portfolio site) [status: In Progress]
 - <a href="https://github.com/Bash-04/TheDashboard">TheDashboard</a> [status: In Progress]
 
 ### Earlier projects:
