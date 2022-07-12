@@ -23,8 +23,7 @@ Check out my **portfolio** site. *I'm still working on it at the moment, so it i
 - <a href="https://github.com/Bash-04/basbakens">basbakens</a> (Portfolio site) [status: In Progress]
 - <a href="https://github.com/Bash-04/TheDashboard">TheDashboard</a> [status: In Progress]
 
-#### Mini-Projects
-- <a href="https://github.com/Bash-04/mini-projects">Mini-Projects</a>
+#### <a href="https://github.com/Bash-04/mini-projects">Mini-Projects</a>
 - <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Hello%2C%20world!">Hello, World!</a>
 - <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Tools">Tools</a>
 
