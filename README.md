@@ -35,8 +35,9 @@ Check out my **portfolio** site. *I'm still working on it at the moment, so it i
 
 ### My GitHub pages
 - <a href="https://Bash-04.GitHub.io">Bash-04.GitHub.io</a>
-- <a href="https://Bash-04.GitHub.io/basbakens/">Bash-04.GitHub.io/basbakens/</a>
-- <a href="https://Bash-04.GitHub.io/TheDashboard/web/">Bash-04.GitHub.io/TheDashboard/web/</a>
+  - <a href="https://Bash-04.GitHub.io/basbakens/">Bash-04.GitHub.io/basbakens/</a>
+  - <a href="https://Bash-04.GitHub.io/TheDashboard/web/">Bash-04.GitHub.io/TheDashboard/web/</a>
+  - <a href="https://Bash-04.GitHub.io/Mini-Projects/">Bash-04.GitHub.io/Mini-Projects/</a>
 
 <hr>
 
