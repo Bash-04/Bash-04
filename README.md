@@ -20,6 +20,7 @@ I am currently studying at **Fontys ICT**.
 ### Current project:
 - <a href="https://github.com/Bash-04/basbakens">basbakens</a> (Portfolio site) [status: In Progress]
 - <a href="https://github.com/Bash-04/TheDashboard">TheDashboard</a> [status: In Progress]
+- <a href="https://github.com/Bash-04/Noted">Noted</a> (API?) [status: In Progress]
 
 #### <a href="https://github.com/Bash-04/mini-projects">Mini-Projects</a>
 - <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Hello%2C%20world!">Hello, World!</a>
