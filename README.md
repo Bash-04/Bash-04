@@ -17,14 +17,6 @@ I am currently studying at **Fontys ICT**.
 
 <hr>
 
-### Learning
-#### <a href="https://github.com/Bash-04/MyLearningProcess">Full Process</a>
-- <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester">Startsemester</a>
-  - <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software">Software</a>
-  - <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Technology">Technology</a>
-
-<hr>
-
 ### Current project:
 - <a href="https://github.com/Bash-04/basbakens">basbakens</a> (Portfolio site) [status: In Progress]
 - <a href="https://github.com/Bash-04/TheDashboard">TheDashboard</a> [status: In Progress]
@@ -37,6 +29,14 @@ I am currently studying at **Fontys ICT**.
 ### Earlier projects:
 - <a href="https://github.com/Bash-04/OROwebapp-v2">OROwebapp-V2</a> (Technasium Mastertest; ORO) [status: Done]
 - <a href="https://github.com/Bash-04/OROwebapp-v1">OROwebapp-V1</a> (Technasium Mastertest; ORO) [status: Done]
+
+<hr>
+
+### Learning
+#### <a href="https://github.com/Bash-04/MyLearningProcess">Full Process</a>
+- <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester">Startsemester</a>
+  - <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software">Software</a>
+  - <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Technology">Technology</a>
 
 <hr>
 
