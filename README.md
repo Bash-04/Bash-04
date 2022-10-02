@@ -36,6 +36,7 @@ I am currently studying at **Fontys ICT**.
 #### Fontys Hogescholen, Eindhoven
 <b>HBO-ICT</b>
 - <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester">Startsemester</a>
+  - <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Business">Business</a>
   - <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software">Software</a>
   - <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Technology">Technology</a>
 
