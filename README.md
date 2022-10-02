@@ -32,8 +32,9 @@ I am currently studying at **Fontys ICT**.
 
 <hr>
 
-### Learning
-#### <a href="https://github.com/Bash-04/MyLearningProcess">Full Process</a>
+### <a href="https://github.com/Bash-04/MyLearningProcess">MyLearningProcess</a>
+#### Fontys Hogescholen, Eindhoven
+<b>HBO-ICT</b>
 - <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester">Startsemester</a>
   - <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software">Software</a>
   - <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Technology">Technology</a>
