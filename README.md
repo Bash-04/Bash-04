@@ -11,7 +11,7 @@ I am currently studying at **Fontys ICT**.
 <hr>
 
 <details>
-<summary><samp><h3><b>Socials</b></h3></samp></summary>
+<summary><samp><h4><b>Socials</b></h4></samp></summary>
   ✦ <a href="https://basbakens.ga" target="blank">Portfolio Site</a>
     <br>
   ✦ <a href="https://instagram.com/basbakensdev" target="blank">Instagram</a>
@@ -22,10 +22,8 @@ I am currently studying at **Fontys ICT**.
   <hr>
 </details>
 
-<br>
-
 <details>
-<summary><samp><h3><b>Projects</b></h3></samp></summary>
+<summary><samp><h4><b>Projects</b></h4></samp></summary>
 <h2>Current project</h2>
   ✦ <a href="https://github.com/Bash-04/basbakens">basbakens</a> (Portfolio site) [status: In Progress]
     <br>
@@ -48,10 +46,8 @@ I am currently studying at **Fontys ICT**.
   <hr>
 </details>
 
-<br>
-
 <details>
-<summary><samp><h3><b>MyLearningProcess</b></h3></samp></summary>
+<summary><samp><h4><b>MyLearningProcess</b></h4></samp></summary>
 <h2><a href="https://github.com/Bash-04/MyLearningProcess">MyLearningProcess</a></h2>
   <h3>Fontys University of Applied sciences - HBO-ICT</h3>
 ✦ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester">Startsemester</a>
@@ -64,10 +60,8 @@ I am currently studying at **Fontys ICT**.
   <hr>
 </details>
 
-<br>
-
 <details>
-<summary><samp><h3><b>My GitHub pages</b></h3></samp></summary>
+<summary><samp><h4><b>My GitHub pages</b></h4></samp></summary>
 ✦ <a href="https://Bash-04.GitHub.io">Bash-04.GitHub.io</a>
   <br>
 &nbsp;  ✧ <a href="https://Bash-04.GitHub.io/basbakens/">Bash-04.GitHub.io/basbakens/</a>
