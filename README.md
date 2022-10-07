@@ -22,6 +22,8 @@ I am currently studying at **Fontys ICT**.
   <hr>
 </details>
 
+<br>
+
 <details>
 <summary><samp><h3><b>Projects</b></h3></samp></summary>
 <h2>Current project</h2>
@@ -46,8 +48,9 @@ I am currently studying at **Fontys ICT**.
   <hr>
 </details>
 
-<details>
+<br>
 
+<details>
 <summary><samp><h3><b>MyLearningProcess</b></h3></samp></summary>
 <h2><a href="https://github.com/Bash-04/MyLearningProcess">MyLearningProcess</a></h2>
   <h3>Fontys University of Applied sciences - HBO-ICT</h3>
@@ -60,6 +63,8 @@ I am currently studying at **Fontys ICT**.
 &nbsp;  ✧ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Technology">Technology</a>
   <hr>
 </details>
+
+<br>
 
 <details>
 <summary><samp><h3><b>My GitHub pages</b></h3></samp></summary>
