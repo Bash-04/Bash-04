@@ -1,7 +1,7 @@
 ### Hello there! 👋
-My name is <a href="https://instagram.com/basbakens" target="blank">*Bas Bakens*</a> AKA <a href="https://github.com/bash-04" target="blank">*Bash-04*</a> and I am *18* years old. 
+My name is <a href="https://instagram.com/basbakens">*Bas Bakens*</a> AKA <a href="https://github.com/bash-04">*Bash-04*</a> and I am *18* years old. 
   <br>
-I live in the south of the **Netherlands** and in <ins>Juli 2021</ins> I started coding my first project which became my own <a href="https://basbakens.ga" target="_blank">**portfolio**</a> site.
+I live in the south of the **Netherlands** and in <ins>Juli 2021</ins> I started coding my first project which became my own <a href="https://basbakens.ga">**portfolio**</a> site.
   <br>
 I am currently studying at **Fontys ICT**.
   <br>
@@ -16,7 +16,7 @@ I am currently studying at **Fontys ICT**.
 
 <details>
 <summary><samp><b>Socials</b></samp></summary>
-  ✦ <a href="https://basbakens.ga" target="blank">Portfolio Site</a>
+  ✦ <a href="https://basbakens.ga">Portfolio Site</a>
     <br>
   ✦ <a href="https://instagram.com/basbakensdev" target="blank">Instagram</a>
     <br>
