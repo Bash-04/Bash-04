@@ -72,6 +72,8 @@ I am currently studying at **Fontys ICT**.
   <br>
 &nbsp;  ✧ <a href="https://Bash-04.GitHub.io/TheDashboard/web/">Bash-04.GitHub.io/TheDashboard/web/</a>
   <br>
+&nbsp;  &nbsp;  &nbsp;  ✦ <a href="https://Bash-04.GitHub.io/Noted/">Bash-04.GitHub.io/Noted/</a>
+  <br>
 &nbsp;  ✧ <a href="https://Bash-04.GitHub.io/Mini-Projects/">Bash-04.GitHub.io/Mini-Projects/</a>
 </details>
 
