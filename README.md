@@ -31,11 +31,13 @@ I am currently studying at **Fontys ICT**.
 <h2>Current project</h2>
   ✦ <a href="https://github.com/Bash-04/basbakens">basbakens</a> (Portfolio site) [status: In Progress]
     <br>
-  ✦ <a href="https://github.com/Bash-04/TheDashboard">TheDashboard</a> [status: In Progress]
+  ✦ <a href="https://github.com/Bash-04/TheDashboard">TheDashboard</a> [status: on hold]
     <br>
-  ✦ <a href="https://github.com/Bash-04/Noted">Noted</a> (API?) [status: In Progress]
+  ✦ <a href="https://github.com/Bash-04/Noted">Noted</a> (API?) [status: on hold]
 
   <h3><a href="https://github.com/Bash-04/mini-projects">Mini-Projects</a></h3>
+  ✦ <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Games">Games</a>
+    <br>
   ✦ <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Hello%2C%20world!">Hello, World!</a>
     <br>
   ✦ <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Tools">Tools</a>
