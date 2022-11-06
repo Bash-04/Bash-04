@@ -44,7 +44,12 @@ I am currently studying at **Fontys ICT**.
 
   <hr>
 
-<h2>Earlier projects</h2>
+<h2>Finished projects</h2>
+  <h3><a href="https://github.com/Bash-04/mini-projects">Mini-Projects</a></h3>
+  ✦ <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Games">Games</a>
+    <br>
+&nbsp;  ✧ <a href="https://github.com/Bash-04/Mini-Projects/blob/main/Games/Blackjack">Blackjack</a>
+    
   <h4>Varendonck College, Asten</h4>
   ✦ <a href="https://github.com/Bash-04/OROwebapp-v2">OROwebapp-V2</a> (Technasium Mastertest; ORO) [status: Done]
     <br>
