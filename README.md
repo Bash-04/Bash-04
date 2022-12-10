@@ -89,7 +89,7 @@ I am currently studying at **Fontys ICT**.
 ### My GitHub stats
 [![Bash's github stats](https://github-readme-stats.vercel.app/api?username=Bash-04&show_icons=true&theme=highcontrast&title_color=2aa889&text_color=99d1ce)](https://github.com/Bash-04)
   <br>
-[![Github contribution's](https://github-readme-streak-stats.herokuapp.com/?user=Bash-04&theme=dark)](https://github.com/Bash-04)
+[![Github contribution's](https://github-readme-streak-stats.herokuapp.com/?user=Bash-04&theme=gotham)](https://github.com/Bash-04)
   <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bash-04&theme=gotham&layout=compact&langs_count=6)](https://github.com/Bash-04)
   <br>
