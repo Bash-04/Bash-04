@@ -67,6 +67,10 @@ I am currently studying at **Fontys ICT**.
     <br>
 &nbsp;  ✧ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software">Software</a>
     <br>
+&nbsp;  &nbsp;  ✦ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software/Oriëntatie">Orientation</a>
+    <br>
+&nbsp;  &nbsp;  ✦ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software/Verdieping">Deepening</a>
+    <br>
 &nbsp;  ✧ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Technology">Technology</a>
   <hr>
 </details>
