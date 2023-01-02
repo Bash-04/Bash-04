@@ -9,8 +9,6 @@ I am currently studying at **Fontys ICT**.
 **Contact me**
   <br>
 <a href="https://www.linkedin.com/in/basbakens/" target=blank>Linkedin.com/in/basbakens</a>
-  <br>
-<a href="mailto:bas.bakens@gmail.com">bas.bakens04@gmail.com</a>
 
 <hr>
 
