@@ -14,8 +14,6 @@ I am currently studying at **Fontys ICT**.
 
 <details>
 <summary><samp><b>Socials</b></samp></summary>
-  ✦ <a href="https://basbakens.ga">Portfolio Site</a>
-    <br>
   ✦ <a href="https://instagram.com/basbakensdev" target="blank">Instagram</a>
     <br>
   ✦ <a href="https://discord.com/users/428516097244004352">Discord</a>
