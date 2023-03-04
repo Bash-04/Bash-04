@@ -3,7 +3,7 @@ My name is <a href="https://instagram.com/basbakens">*Bas Bakens*</a> AKA <a hre
   <br>
 I live in the south of the **Netherlands** and in <ins>Juli 2021</ins> I started coding my first project which became my own <a href="https://basbakens.ga">**portfolio**</a> site.
   <br>
-I am currently studying at **Fontys ICT**.
+I am currently studying **ICT & Software** at <ins>Fontys University of Applied Sciences</ins>.
   <br>
   <br>
 **Contact me**
@@ -24,32 +24,28 @@ I am currently studying at **Fontys ICT**.
 
 <details>
 <summary><samp><b>Projects</b></samp></summary>
-<h2>Current project</h2>
-  ✦ <a href="https://github.com/Bash-04/basbakens">basbakens</a> (Portfolio site) [status: In Progress]
+  <h4>Personal projects</h4>
+  ✦ <a href="https://github.com/Bash-04/basbakens">basbakens</a> (Portfolio site)
     <br>
-  ✦ <a href="https://github.com/Bash-04/TheDashboard">TheDashboard</a> [status: on hold]
+  ✦ <a href="https://github.com/Bash-04/TheDashboard">TheDashboard</a>
     <br>
-  ✦ <a href="https://github.com/Bash-04/Noted">Noted</a> (API?) [status: on hold]
+  ✦ <a href="https://github.com/Bash-04/Noted">Noted</a>
 
-  <h3><a href="https://github.com/Bash-04/mini-projects">Mini-Projects</a></h3>
-  ✦ <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Games">Games</a>
+  <h4>School projects</h4>
+  ✦ <a href="https://github.com/Bash-04/PlanBoard">PlanBoard</a> (Fontys HBO-ICT & Software; individual project) [status: In progress]
     <br>
-  ✦ <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Hello%2C%20world!">Hello, World!</a>
+  ✦ <a href="https://github.com/Bash-04/OROwebapp-v2">OROwebapp-V2</a> (Technasium Mastertest; ORO) [status: Done]
     <br>
-  ✦ <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Tools">Tools</a>
-
-  <hr>
-
-<h2>Finished projects</h2>
+  ✦ <a href="https://github.com/Bash-04/OROwebapp-v1">OROwebapp-V1</a> (Technasium Mastertest; ORO) [status: Done]
+  
   <h3><a href="https://github.com/Bash-04/mini-projects">Mini-Projects</a></h3>
   ✦ <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Games">Games</a>
     <br>
 &nbsp;  ✧ <a href="https://github.com/Bash-04/Mini-Projects/blob/main/Games/Blackjack">Blackjack</a>
-    
-  <h4>Varendonck College, Asten</h4>
-  ✦ <a href="https://github.com/Bash-04/OROwebapp-v2">OROwebapp-V2</a> (Technasium Mastertest; ORO) [status: Done]
     <br>
-  ✦ <a href="https://github.com/Bash-04/OROwebapp-v1">OROwebapp-V1</a> (Technasium Mastertest; ORO) [status: Done]
+  ✦ <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Hello%2C%20world!">Hello, World!</a>
+    <br>
+  ✦ <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Tools">Tools</a>
   <hr>
 </details>
 
@@ -57,17 +53,21 @@ I am currently studying at **Fontys ICT**.
 <summary><samp><b>MyLearningProcess</b></samp></summary>
 <h2><a href="https://github.com/Bash-04/MyLearningProcess">MyLearningProcess</a></h2>
   <h3>Fontys University of Applied sciences - HBO-ICT</h3>
-✦ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester">Startsemester</a>
+  ✦ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/S1-Startsemester">First Semester (startsemester)</a>
     <br>
-&nbsp;  ✧ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Business">Business</a>
+  &nbsp;  ✧ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Business">Business</a>
     <br>
-&nbsp;  ✧ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software">Software</a>
+  &nbsp;  ✧ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software">Software</a>
     <br>
-&nbsp;  &nbsp;  ✦ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software/Oriëntatie">Orientation</a>
+  &nbsp;  &nbsp;  ✦ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software/Ori%C3%ABntatie">Orientation</a>
     <br>
-&nbsp;  &nbsp;  ✦ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software/Verdieping">Deepening</a>
+  &nbsp;  &nbsp;  ✦ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software/Verdieping">Deepening</a>
     <br>
-&nbsp;  ✧ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Technology">Technology</a>
+  &nbsp;  ✧ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Technology">Technology</a>
+    <br>
+  ✦ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/S2">Second Semester</a>
+    <br>
+  &nbsp;  ✧ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/S2/CircusTrainConsole">CircusTrain</a>
   <hr>
 </details>
 
