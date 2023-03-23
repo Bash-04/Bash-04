@@ -32,7 +32,7 @@ I am currently studying **ICT & Software** at <ins>Fontys University of Applied 
   ✦ <a href="https://github.com/Bash-04/Noted">Noted</a>
 
   <h4>School projects</h4>
-  ✦ <a href="theplanboard.azurewebsites.net">PlanBoard</a> (Fontys HBO-ICT & Software; individual project) [status: In progress]
+  ✦ <a href="https://theplanboard.azurewebsites.net">PlanBoard</a> (Fontys HBO-ICT & Software; individual project) [status: In progress]
     <br>
   ✦ <a href="https://github.com/Bash-04/OROwebapp-v2">OROwebapp-V2</a> (Technasium Mastertest; ORO) [status: Done]
     <br>
