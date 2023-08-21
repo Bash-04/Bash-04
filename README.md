@@ -1,5 +1,5 @@
 ### Hello there! 👋
-My name is <a href="https://instagram.com/basbakens">*Bas Bakens*</a> AKA <a href="https://github.com/bash-04">*Bash-04*</a> and I am *18* years old. 
+My name is <a href="https://instagram.com/basbakens">*Bas Bakens*</a> AKA <a href="https://github.com/bash-04">*Bash-04*</a> and I am *19* years old. 
   <br>
 I live in the south of the **Netherlands** and in <ins>Juli 2021</ins> I started coding my first project which became my own <a href="https://basbakens.ga">**portfolio**</a> site.
   <br>
