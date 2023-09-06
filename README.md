@@ -27,12 +27,10 @@ I am currently studying **ICT & Software** at <ins>Fontys University of Applied 
   <h4>Personal projects</h4>
   ✦ <a href="https://github.com/Bash-04/basbakens">basbakens</a> (Portfolio site)
     <br>
-  ✦ <a href="https://github.com/Bash-04/TheDashboard">TheDashboard</a>
-    <br>
-  ✦ <a href="https://github.com/Bash-04/Noted">Noted</a>
+  ✦ <a>PlanBoard</a> (project management system)
 
   <h4>School projects</h4>
-  ✦ PlanBoard (Fontys HBO-ICT & Software; individual project) [status: In progress]
+  ✦ Project Management Systsem (Fontys HBO-ICT & Software; individual project) [status: Done]
     <br>
   ✦ <a href="https://github.com/Bash-04/OROwebapp-v2">OROwebapp-V2</a> (Technasium Mastertest; ORO) [status: Done]
     <br>
@@ -76,10 +74,6 @@ I am currently studying **ICT & Software** at <ins>Fontys University of Applied 
 ✦ <a href="https://Bash-04.GitHub.io">Bash-04.GitHub.io</a>
   <br>
 &nbsp;  ✧ <a href="https://Bash-04.GitHub.io/basbakens/">Bash-04.GitHub.io/basbakens/</a>
-  <br>
-&nbsp;  ✧ <a href="https://Bash-04.GitHub.io/TheDashboard/web/">Bash-04.GitHub.io/TheDashboard/web/</a>
-  <br>
-&nbsp;  &nbsp;  ✦ <a href="https://Bash-04.GitHub.io/Noted/">Bash-04.GitHub.io/Noted/</a>
   <br>
 &nbsp;  ✧ <a href="https://Bash-04.GitHub.io/Mini-Projects/">Bash-04.GitHub.io/Mini-Projects/</a>
 </details>
