@@ -1,9 +1,7 @@
 ### Hello there! 👋
 My name is <a href="https://instagram.com/basbakens">*Bas Bakens*</a> AKA <a href="https://github.com/bash-04">*Bash-04*</a> and I am *19* years old. 
   <br>
-I live in the south of the **Netherlands** and in <ins>Juli 2021</ins> I started coding my first project which became my own <a href="https://basbakens.ga">**portfolio**</a> site.
-  <br>
-I am currently studying **ICT & Software** at <ins>Fontys University of Applied Sciences</ins>.
+I am currently participating in the **Delta Excellence Program** at <ins>Fontys University of Applied Sciences</ins> in which I am learning everything about **Software Engineering** and **Embedded Systems**.
   <br>
   <br>
 **Contact me**
@@ -19,63 +17,6 @@ I am currently studying **ICT & Software** at <ins>Fontys University of Applied 
   ✦ <a href="https://discord.com/users/428516097244004352">Discord</a>
     <br>
   ✦ <a href="https://www.linkedin.com/in/basbakens/" target=blank>Linkedin</a>
-  <hr>
-</details>
-
-<details>
-<summary><samp><b>Projects</b></samp></summary>
-  <h4>Personal projects</h4>
-  ✦ <a href="https://github.com/Bash-04/basbakens">basbakens</a> (Portfolio site)
-    <br>
-  ✦ <a>PlanBoard</a> (project management system)
-
-  <h4>School projects</h4>
-  ✦ Project Management Systsem (Fontys HBO-ICT & Software; individual project) [status: Done]
-    <br>
-  ✦ <a href="https://github.com/Bash-04/OROwebapp-v2">OROwebapp-V2</a> (Technasium Mastertest; ORO) [status: Done]
-    <br>
-  ✦ <a href="https://github.com/Bash-04/OROwebapp-v1">OROwebapp-V1</a> (Technasium Mastertest; ORO) [status: Done]
-  
-  <h3><a href="https://github.com/Bash-04/mini-projects">Mini-Projects</a></h3>
-  ✦ <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Games">Games</a>
-    <br>
-&nbsp;  ✧ <a href="https://github.com/Bash-04/Mini-Projects/blob/main/Games/Blackjack">Blackjack</a>
-    <br>
-  ✦ <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Hello%2C%20world!">Hello, World!</a>
-    <br>
-  ✦ <a href="https://github.com/Bash-04/Mini-Projects/tree/main/Tools">Tools</a>
-  <hr>
-</details>
-
-<details>
-<summary><samp><b>MyLearningProcess</b></samp></summary>
-<h2><a href="https://github.com/Bash-04/MyLearningProcess">MyLearningProcess</a></h2>
-  <h3>Fontys University of Applied sciences - HBO-ICT</h3>
-  ✦ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/S1-Startsemester">First Semester (startsemester)</a>
-    <br>
-  &nbsp;  ✧ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Business">Business</a>
-    <br>
-  &nbsp;  ✧ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software">Software</a>
-    <br>
-  &nbsp;  &nbsp;  ✦ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software/Ori%C3%ABntatie">Orientation</a>
-    <br>
-  &nbsp;  &nbsp;  ✦ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Software/Verdieping">Deepening</a>
-    <br>
-  &nbsp;  ✧ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/Startsemester/Technology">Technology</a>
-    <br>
-  ✦ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/S2">Second Semester</a>
-    <br>
-  &nbsp;  ✧ <a href="https://github.com/Bash-04/MyLearningProcess/tree/main/S2/CircusTrainConsole">CircusTrain</a>
-  <hr>
-</details>
-
-<details>
-<summary><samp><b>My GitHub pages</b></samp></summary>
-✦ <a href="https://Bash-04.GitHub.io">Bash-04.GitHub.io</a>
-  <br>
-&nbsp;  ✧ <a href="https://Bash-04.GitHub.io/basbakens/">Bash-04.GitHub.io/basbakens/</a>
-  <br>
-&nbsp;  ✧ <a href="https://Bash-04.GitHub.io/Mini-Projects/">Bash-04.GitHub.io/Mini-Projects/</a>
 </details>
 
 <hr>
