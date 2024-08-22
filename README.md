@@ -1,5 +1,5 @@
 ### Hello there! 👋
-My name is <a href="https://instagram.com/basbakens">*Bas Bakens*</a> AKA <a href="https://github.com/bash-04">*Bash-04*</a> and I am *19* years old. 
+My name is <a href="https://instagram.com/basbakens">*Bas Bakens*</a> AKA <a href="https://github.com/bash-04">*Bash-04*</a> and I am *20* years old. 
   <br>
 I am currently participating in the **Delta Excellence Program** at <ins>Fontys University of Applied Sciences</ins> in which I am learning everything about **Software Engineering** and **Embedded Systems**.
   <br>
