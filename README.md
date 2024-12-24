@@ -1,17 +1,23 @@
-# Hi there! 👋
-My name is <a href="https://instagram.com/basbakens">***Bas Bakens***</a> AKA <a href="https://github.com/bash-04">***Bash-04***</a> and I am *20* years old. 
+# Hi there, I'm Bas Bakens! 👋
+My name is **Bas Bakens** AKA **Bash-04** and I am a **20** year old <ins>developer</ins>. 
   <br>
-I am currently participating in the **Delta Excellence Program** at <ins>Fontys University of Applied Sciences</ins> in which I am learning everything about **Software Engineering** and **Embedded Systems**.
+Want to check out my <a href="https://basbakens.nl" target=blank>**website**</a>? 
   <br>
-  <br>
-**Contact me**
-  <br>
-<a href="https://www.linkedin.com/in/basbakens/" target=blank>Linkedin.com/in/basbakens</a>
+## I'm a Delta student at Fontys ICT 💻
+I am currently participating in the <a href="https://deltafontysict.nl/#about-us" target=blank>**Delta Excellence Program**</a> at **Fontys University of Applied Sciences** in which I am learning everything about **Software Engineering** and **Embedded Systems Engineering**.
   <br>
   <br>
-Check out my website: <a href="https://basbakens.nl" target=blank>**basbakens.nl**</a>
+### **Check out my socials**
+- <a href="https://basbakens.nl/" target=blank>basbakens.nl</a>
+  <br>
+- <a href="https://www.linkedin.com/in/basbakens/" target=blank>Linkedin.com/in/basbakens</a>
+  <br>
+- <a href="https://instagram.com/basbakens/" target=blank>Instagram.com/basbakens</a>
+  <br>
+- <a href="https://deltafontysict.nl/student/bas-bakens/" target=blank>DeltaFontysICT.nl/student/bas-bakens</a>
+  <br>
   
-<hr>
+#
 
 ### My GitHub stats
 [![Bash's github stats](https://github-readme-stats.vercel.app/api?username=Bash-04&show_icons=true&theme=highcontrast&title_color=2aa889&text_color=99d1ce)](https://github.com/Bash-04)
